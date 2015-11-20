@@ -1,5 +1,5 @@
 /**
- * Created by Khoi on 11/19/2015.
+ * @author: Khoi Nguyen
  */
 
 // Define Roman numerals for appropriate numbers
